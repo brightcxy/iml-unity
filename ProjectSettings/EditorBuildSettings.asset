@@ -8,8 +8,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/InteractML_Examples/VR_Interface/Venice_VR.unity
     guid: 630f61ddc47f2c44885f64b9493c042e
-  m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f8a3673c962cd4da5b3d9aef85d54f20,
-      type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 548feb749c24f44d0a42364d99a82cf4,
-      type: 2}
+  m_configObjects: {}
